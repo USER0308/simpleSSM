@@ -12,27 +12,27 @@
 
 * ssm主要包结构:
     * entity实体层
-	    * dao数据访问层
-		    * service服务层
-			    * serviceImpl服务实现层
+    * dao数据访问层
+    * service服务层
+    * serviceImpl服务实现层
 
-				* 配置文件
-				    * applicationContext.xml
-					    * mybatis-config.xml
-						    * pom.xml
-							    * dao.xml
+* 配置文件
+    * applicationContext.xml
+    * mybatis-config.xml
+    * pom.xml
+    * dao.xml
 
-								* schema.sql
-								* jdbc.properties
+* schema.sql
+* jdbc.properties
 
-								* jar依赖包
-								    * mybatis-spring-1.3.0
-									    * mybatis-3.4.1
-										    * mysql-connector-java-5.1.39
-											    * spring-jdbc-4.2.0-RELEASE
-												    * spring-core-4.2.0-RELEASE
-													    * JUnit4
-														...
+* jar依赖包
+    * mybatis-spring-1.3.0
+    * mybatis-3.4.1
+    * mysql-connector-java-5.1.39
+    * spring-jdbc-4.2.0-RELEASE
+    * spring-core-4.2.0-RELEASE
+    * JUnit4
+	* ...
 
 ## 操作
 
